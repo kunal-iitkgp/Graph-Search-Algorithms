@@ -1,0 +1,2 @@
+# Graph-Search-Algorithms
+Input Format  The first line contains 2 space separated integers which is the position of the PacMan.  The second line contains 2 space separated integers which is the position of the food.  The third line of the input contains 2 space separated integers. Indicating the size of the rows and columns respectively.  This is followed by row (r) lines each containing column (c) characters. A wall is represented by the character '%'
